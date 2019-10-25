@@ -1,7 +1,7 @@
 import java.io.File;
 
 
-public class ReadFile {
+public class ReadLogFile {
     static String filePath(String directoryPath)
     {
         String max="";

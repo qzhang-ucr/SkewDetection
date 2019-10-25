@@ -6,41 +6,50 @@ import java.util.regex.Matcher;
 
 public class DataSkewTools {
 
-    public static boolean stageReadBegin(String text_line)
+    public static boolean stageReadBegin(String textLine)
     {
-        Pattern p = Pattern.compile("\"Event\":\"SparkListenerTaskEnd\"");
-        Matcher m = p.matcher(text_line);
-        return m.find();
+        Pattern pattern = Pattern.compile("\"Event\":\"SparkListenerTaskEnd\"");
+        Matcher master = pattern.matcher(textLine);
+        return master.find();
     }
 
-    public static int compareBit(String text_line)
+    public static int compareBit(String textLine)
     {
-        int sum=0;
-        Pattern p = Pattern.compile("\"Remote Bytes Read\":");
-        Matcher m = p.matcher(text_line);
-        if (!m.find()) {return -1;}
-        sum = sum + transToNum(text_line,m.end());
-        p = Pattern.compile("\"Local Bytes Read\":");
-        m=p.matcher(text_line);
-        m.find();
-        sum = sum + transToNum(text_line,m.end());
+        int sum = 0;
+        Pattern pattern = Pattern.compile("\"Remote Bytes Read\":");
+        Matcher master = pattern.matcher(textLine);
+
+        if (!master.find()) {
+            return -1;
+        }
+
+        sum = sum + transToNum(textLine, master.end());
+        pattern = Pattern.compile("\"Local Bytes Read\":");
+        master = pattern.matcher(textLine);
+        master.find();
+        sum = sum + transToNum(textLine, master.end());
         return sum;
 
     }
 
-    public static int compareStage(String text_line)
+    public static int compareStage(String textLine)
     {
-        Pattern p = Pattern.compile("\"Stage ID\":");
-        Matcher m = p.matcher(text_line);
-        if (!m.find()){return -1;}
-        return m.end();
+        Pattern pattern = Pattern.compile("\"Stage ID\":");
+        Matcher master = pattern.matcher(textLine);
+        if (!master.find()){
+            return -1;
+        }
+        return master.end();
     }
-    public static int compareExecutor(String text_line)
+
+    public static int compareExecutor(String textLine)
     {
-        Pattern p = Pattern.compile("\"Executor ID\":");
-        Matcher m = p.matcher(text_line);
-        if (!m.find()){return -1;}
-        return m.end();
+        Pattern pattern = Pattern.compile("\"Executor ID\":");
+        Matcher master = pattern.matcher(textLine);
+        if (!master.find()){
+            return -1;
+        }
+        return master.end();
     }
 
     public static double computeEntropy(double[] arr)
@@ -65,14 +74,15 @@ public class DataSkewTools {
 
     private static boolean judgeNumber(char x)
     {
+
         return (x >= '0') & (x <= '9');
     }
 
-    static int transToNum(String text_line, int start_point)
+    public static int transToNum(String textLine, int startPoint)
     {
-        if (start_point==0) return 0;
-        int i = start_point;
-        char[] b = text_line.toCharArray();
+        if (startPoint==0) return 0;
+        int i = startPoint;
+        char[] b = textLine.toCharArray();
         int sum=0;
 
         while (!judgeNumber(b[i]))
@@ -83,14 +93,14 @@ public class DataSkewTools {
         {
             i++;
         }
-        i=i-1;
-        int k=1;
+        i = i - 1;
+        int k = 1;
 
         while (judgeNumber(b[i]))
         {
-            sum = sum+k*(b[i]-'0');
-            k=k*10;
-            i=i-1;
+            sum = sum + k * ( b[i] - '0');
+            k = k * 10;
+            i = i - 1;
         }
 
         return sum;

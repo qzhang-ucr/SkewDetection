@@ -1,27 +1,37 @@
-public class DataSkewResult {
+
+public class DataSkewFeedback {
+
     private double entropy;
     private int numberOfStage;
 
-    public DataSkewResult(double entropy, int numberOfStage)
+    public DataSkewFeedback(double entropy, int numberOfStage)
     {
         this.entropy = entropy;
         this.numberOfStage = numberOfStage;
     }
 
-    double getEntropy()
+    public double getEntropy()
     {
+
         return this.entropy;
     }
-    int getNumberOfStage()
+
+    public int getNumberOfStage()
     {
+
         return this.numberOfStage;
     }
-    void setEntropy(double entropy)
+
+    public void setEntropy(double entropy)
     {
+
         this.entropy = entropy;
     }
-    void setNumberOfStage(int numberOfStage)
+
+    public void setNumberOfStage(int numberOfStage)
     {
+
         this.numberOfStage = numberOfStage;
     }
+
 }

@@ -1,12 +1,12 @@
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class test_main {
+public class TestDataSkew {
     public static void main(String[] args) throws IOException {
         //new dataSkewDetected();
         String b= "/tmp/spark-events/";
-        ArrayList<DataSkewResult> array = DataSkewDetector.getDataSkewResults(6,b,b,0.95);
-        for(DataSkewResult res:array)
+        ArrayList<DataSkewFeedback> array = DataSkewDetector.getEntropy(6,b,b,0.99);
+        for(DataSkewFeedback res:array)
         {
             System.out.println(res.getEntropy()+", "+res.getNumberOfStage());
         }

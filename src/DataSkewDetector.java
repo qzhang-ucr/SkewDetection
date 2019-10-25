@@ -5,38 +5,54 @@ import java.util.Arrays;
 
 public class DataSkewDetector {
 
-    public static ArrayList<DataSkewResult> getDataSkewResults(int workerNum, String pathRead, String pathWrite, double threshold) throws IOException {
+    private ArrayList<DataSkewFeedback> entropyarray = new ArrayList<>();
 
-        ArrayList<DataSkewResult> array = new ArrayList<>();
+    public DataSkewDetector() {
+
+    }
+
+    public ArrayList<DataSkewFeedback> getEntropyArray() {
+        return this.entropyarray;
+    }
+
+    public void setEntropyArray (ArrayList<DataSkewFeedback> entropyarray) {
+        this.entropyarray = entropyarray;
+    }
+
+    public static ArrayList<DataSkewFeedback> getEntropy(int workerNum, String pathRead, String pathWrite, double threshold) throws IOException {
+
+        ArrayList<DataSkewFeedback> array = new ArrayList<>();
         double[] memory = new double[workerNum];
+
         double totalMemory = 0.0;
         int maxStage = 0;
 
         String writeFile = pathWrite+"/result.txt";
-        File resultF = new File(writeFile);
-        FileOutputStream result_p = new FileOutputStream(resultF);
+        File resultFile = new File(writeFile);
+        FileOutputStream result_p = new FileOutputStream(resultFile);
         OutputStreamWriter writer = new OutputStreamWriter(result_p, StandardCharsets.UTF_8);
 
-        double[][] stageMemoryUse = new double[10000][workerNum];
 
-        BufferedReader br = new BufferedReader(new FileReader(ReadFile.filePath(pathRead)));
+
+        BufferedReader br = new BufferedReader(new FileReader(ReadLogFile.filePath(pathRead)));
         String line;
 
+        double[][] stageMemoryUse = new double[10000][workerNum];
         while ((line = br.readLine()) != null) {
-            //new DataSkewTools();
 
             if (DataSkewTools.stageReadBegin(line)) {
-                int position = DataSkewTools.compareStage(line);
 
-                int stage_number = DataSkewTools.transToNum(line, position);
-                maxStage = stage_number;
+                int position = DataSkewTools.compareStage(line);
+                int stageNumber = DataSkewTools.transToNum(line, position);
+                maxStage = stageNumber;
+
                 position = DataSkewTools.compareExecutor(line);
                 int executorNumber = DataSkewTools.transToNum(line, position);
-                double kb = (DataSkewTools.compareBit(line)*1.0)/1024;
+                double memoryUsage = (DataSkewTools.compareBit(line)*1.0)/1024;
 
-                stageMemoryUse[stage_number][executorNumber]=stageMemoryUse[stage_number][executorNumber]+kb;
-                memory[executorNumber]=memory[executorNumber]+kb;
-                totalMemory=totalMemory+kb;
+                stageMemoryUse[stageNumber][executorNumber] = stageMemoryUse[stageNumber][executorNumber] + memoryUsage;
+                memory[executorNumber] = memory[executorNumber] + memoryUsage;
+                totalMemory = totalMemory + memoryUsage;
 
             }
         }
@@ -45,40 +61,45 @@ public class DataSkewDetector {
         writer.append("Entropy:").append(String.valueOf(entropy_memory)).append("\n");
 
         for (int i=0;i<workerNum;i++) {
-            writer.append("Memory used for Worker").append(String.valueOf(i)).append(":").append(String.valueOf(memory[i])).append("KB").append("\n");
+            writer.append("Shuffle Read for Worker").append(String.valueOf(i)).append(":").append(String.valueOf(memory[i])).append("KB").append("\n");
         }
 
         double[] entropyStage= new double[maxStage+1];
 
         for (int i = 0; i <= maxStage; i++) {
-            double maxMemory=0;
+
+            double maxMemory = 0;
+
             entropyStage[i] = DataSkewTools.computeEntropy(stageMemoryUse[i]);
+
             int useWorker=0;
-            for (int j=0;j<workerNum;j++)
+
+            for (int j = 0; j < workerNum; j++)
             {
-                if (stageMemoryUse[i][j]>maxMemory)
+                if (stageMemoryUse[i][j] > maxMemory)
                 {
-                    maxMemory=stageMemoryUse[i][j];
+                    maxMemory = stageMemoryUse[i][j];
                 }
                 if (stageMemoryUse[i][j]>0)
                 {
                     useWorker++;
                 }
             }
-            if (entropyStage[i] != -1) {
-                writer.append("Entropy for Stage").append(String.valueOf(i)).append(":").append(String.valueOf(entropyStage[i])).append("\n");
-                writer.append("Shuffle Read for each Worker in Stage").append(String.valueOf(i)).append(":").append(Arrays.toString(stageMemoryUse[i])).append("\n");
-            } else {
-                writer.append("No shuffling in Stage").append(String.valueOf(i)).append("\n");
-            }
-            DataSkewResult current = new DataSkewResult(entropyStage[i],i );
+
+//            if (entropyStage[i] != -1) {
+//                writer.append("Entropy for Stage").append(String.valueOf(i)).append(":").append(String.valueOf(entropyStage[i])).append("\n");
+//                writer.append("Shuffle Read for each Worker in Stage").append(String.valueOf(i)).append(":").append(Arrays.toString(stageMemoryUse[i])).append("\n");
+//            } else {
+//                writer.append("No shuffling in Stage").append(String.valueOf(i)).append("\n");
+//            }
+
+            DataSkewFeedback current = new DataSkewFeedback(entropyStage[i],i );
 
             if ((current.getEntropy()<(Math.log(useWorker)*threshold)) & (maxMemory>10))
             {
                 array.add(current);
             }
         }
-
 
         writer.close();
         return array;

@@ -4,15 +4,16 @@ import java.util.regex.Matcher;
 
 
 
-class dataSkewTools {
-    boolean stageReadBegin(String text_line)
+public class DataSkewTools {
+
+    public static boolean stageReadBegin(String text_line)
     {
         Pattern p = Pattern.compile("\"Event\":\"SparkListenerTaskEnd\"");
         Matcher m = p.matcher(text_line);
         return m.find();
     }
 
-    int compareBit(String text_line)
+    public static int compareBit(String text_line)
     {
         int sum=0;
         Pattern p = Pattern.compile("\"Remote Bytes Read\":");
@@ -27,14 +28,14 @@ class dataSkewTools {
 
     }
 
-    int compareStage(String text_line)
+    public static int compareStage(String text_line)
     {
         Pattern p = Pattern.compile("\"Stage ID\":");
         Matcher m = p.matcher(text_line);
         if (!m.find()){return -1;}
         return m.end();
     }
-    int compareExecutor(String text_line)
+    public static int compareExecutor(String text_line)
     {
         Pattern p = Pattern.compile("\"Executor ID\":");
         Matcher m = p.matcher(text_line);
@@ -42,7 +43,7 @@ class dataSkewTools {
         return m.end();
     }
 
-    double computeEntropy(double[] arr)
+    public static double computeEntropy(double[] arr)
     {
         double entropy = 0;
         double sum = 0;

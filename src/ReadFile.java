@@ -1,11 +1,11 @@
 import java.io.File;
 
 
-class readFile {
+public class ReadFile {
     static String filePath(String directoryPath)
     {
         String max="";
-        File file=new File(directoryPath);
+        File file = new File(directoryPath);
         if (file.isDirectory())
         {
             String[] fileList=file.list();

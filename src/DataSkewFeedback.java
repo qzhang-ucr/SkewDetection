@@ -34,4 +34,8 @@ public class DataSkewFeedback {
         this.numberOfStage = numberOfStage;
     }
 
+    @Override
+    public String toString() {
+        return Double.toString(entropy)+", "+Integer.toString(numberOfStage);
+    }
 }

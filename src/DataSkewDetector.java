@@ -5,18 +5,18 @@ import java.util.Arrays;
 
 public class DataSkewDetector {
 
-    private ArrayList<DataSkewFeedback> entropyarray = new ArrayList<>();
+    private ArrayList<DataSkewFeedback> dataSkewFeedback = new ArrayList<>();
 
     public DataSkewDetector() {
 
     }
 
     public ArrayList<DataSkewFeedback> getEntropyArray() {
-        return this.entropyarray;
+        return this.dataSkewFeedback;
     }
 
     public void setEntropyArray (ArrayList<DataSkewFeedback> entropyarray) {
-        this.entropyarray = entropyarray;
+        this.dataSkewFeedback = entropyarray;
     }
 
     public static ArrayList<DataSkewFeedback> getEntropy(int workerNum, String pathRead, String pathWrite, double threshold) throws IOException {
@@ -31,8 +31,6 @@ public class DataSkewDetector {
         File resultFile = new File(writeFile);
         FileOutputStream result_p = new FileOutputStream(resultFile);
         OutputStreamWriter writer = new OutputStreamWriter(result_p, StandardCharsets.UTF_8);
-
-
 
         BufferedReader br = new BufferedReader(new FileReader(ReadLogFile.filePath(pathRead)));
         String line;

@@ -1,0 +1,2 @@
+Entropy for Stage0:-1.0
+Stage for0[0.0, 0.0, 0.0, 0.0]

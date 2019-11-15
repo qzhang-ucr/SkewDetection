@@ -1,0 +1,5 @@
+Entropy:1.38581482174995
+Shuffle Read for Worker0:62263.1240234375KB
+Shuffle Read for Worker1:67141.861328125KB
+Shuffle Read for Worker2:64054.4716796875KB
+Shuffle Read for Worker3:62289.298828125KB

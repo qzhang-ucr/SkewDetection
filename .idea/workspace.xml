@@ -82,7 +82,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDataSkew">
+  <component name="RunManager" selected="Application.TestComputationSkew">
+    <configuration name="TestComputationSkew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestComputationSkew" />
+      <module name="data_skew_detect" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestDataSkew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestDataSkew" />
       <module name="data_skew_detect" />
@@ -106,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestComputationSkew" />
         <item itemvalue="Application.TestDataSkew" />
         <item itemvalue="Application.test_main" />
       </list>

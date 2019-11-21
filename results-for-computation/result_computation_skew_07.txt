@@ -1,0 +1,3238 @@
+Entropy for Stage0:-1.0
+Stage for0[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1:1.3854049994343103
+Stage for1[2.2467532467532467, 2.4470134874759153, 2.1886141460609547, 2.333734939759036]
+Entropy for Stage2:-1.0
+Stage for2[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage3:1.3819147180948155
+Stage for3[1.0761061946902655, 1.1634738186462323, 1.1566424322538005, 0.9163113006396588]
+Entropy for Stage4:-1.0
+Stage for4[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage5:1.3835431611019997
+Stage for5[1.3603385731559854, 1.3364161849710983, 1.2420701168614356, 1.524846834581348]
+Entropy for Stage6:1.206076487733206
+Stage for6[0.6226151698464402, 2.7096069868995634, 0.9523809523809523, 3.0748129675810474]
+Entropy for Stage7:0.0
+Stage for7[0.3333333333333333, 0.0, 0.0, 0.0]
+Entropy for Stage8:-1.0
+Stage for8[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage9:1.385578324519188
+Stage for9[0.30847772277227725, 0.2774000543921675, 0.296280276816609, 0.29632385771692216]
+Entropy for Stage10:0.0
+Stage for10[0.0, 0.0, 0.42, 0.0]
+Entropy for Stage11:-1.0
+Stage for11[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage12:-1.0
+Stage for12[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage13:0.0
+Stage for13[0.0, 0.044, 0.0, 0.0]
+Entropy for Stage14:-1.0
+Stage for14[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage15:-1.0
+Stage for15[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage16:-1.0
+Stage for16[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage17:1.362115868020072
+Stage for17[0.016862374088708332, 0.03125869069469937, 0.021817411565346324, 0.02461229026623617]
+Entropy for Stage18:1.3633277841471987
+Stage for18[0.017019856499249125, 0.0310845159923745, 0.02212459641136929, 0.023039679447938114]
+Entropy for Stage19:1.3861727744495933
+Stage for19[9.295212765957446, 9.37037037037037, 9.5625, 9.665816326530612]
+Entropy for Stage20:1.0953624006347153
+Stage for20[0.008936550491510277, 0.0, 0.010085014169028171, 0.010888057162300102]
+Entropy for Stage21:-1.0
+Stage for21[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage22:-1.0
+Stage for22[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage23:-1.0
+Stage for23[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage24:-1.0
+Stage for24[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage25:-1.0
+Stage for25[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage26:-1.0
+Stage for26[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage27:-1.0
+Stage for27[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage28:-1.0
+Stage for28[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage29:1.385724529204964
+Stage for29[4.593971631205674, 4.265432098765432, 4.668333333333333, 4.510204081632653]
+Entropy for Stage30:1.0893318441145885
+Stage for30[0.010164897221594759, 0.0, 0.012195121951219513, 0.014225077434897327]
+Entropy for Stage31:-1.0
+Stage for31[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage32:-1.0
+Stage for32[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage33:-1.0
+Stage for33[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage34:-1.0
+Stage for34[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage35:-1.0
+Stage for35[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage36:-1.0
+Stage for36[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage37:-1.0
+Stage for37[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage38:-1.0
+Stage for38[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage39:-1.0
+Stage for39[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage40:-1.0
+Stage for40[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage41:-1.0
+Stage for41[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage42:1.3848898615853262
+Stage for42[5.194148936170213, 5.2592592592592595, 4.645, 5.313775510204081]
+Entropy for Stage43:1.0936407133907866
+Stage for43[0.04343220338983051, 0.0, 0.04441913439635535, 0.05399568034557235]
+Entropy for Stage44:-1.0
+Stage for44[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage45:-1.0
+Stage for45[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage46:-1.0
+Stage for46[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage47:-1.0
+Stage for47[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage48:-1.0
+Stage for48[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage49:-1.0
+Stage for49[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage50:-1.0
+Stage for50[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage51:-1.0
+Stage for51[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage52:-1.0
+Stage for52[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage53:-1.0
+Stage for53[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage54:-1.0
+Stage for54[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage55:-1.0
+Stage for55[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage56:-1.0
+Stage for56[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage57:-1.0
+Stage for57[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage58:1.3836417832291188
+Stage for58[4.321808510638298, 4.414351851851852, 4.495, 5.1811224489795915]
+Entropy for Stage59:1.0779249847689505
+Stage for59[0.08027522935779817, 0.0, 0.09898477157360407, 0.13157894736842105]
+Entropy for Stage60:-1.0
+Stage for60[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage61:-1.0
+Stage for61[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage62:-1.0
+Stage for62[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage63:-1.0
+Stage for63[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage64:-1.0
+Stage for64[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage65:-1.0
+Stage for65[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage66:-1.0
+Stage for66[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage67:-1.0
+Stage for67[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage68:-1.0
+Stage for68[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage69:-1.0
+Stage for69[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage70:-1.0
+Stage for70[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage71:-1.0
+Stage for71[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage72:-1.0
+Stage for72[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage73:-1.0
+Stage for73[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage74:-1.0
+Stage for74[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage75:-1.0
+Stage for75[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage76:-1.0
+Stage for76[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage77:1.3809527894642546
+Stage for77[3.882978723404255, 3.9537037037037037, 4.3275, 5.01530612244898]
+Entropy for Stage78:1.0839694083272184
+Stage for78[0.029023746701846966, 0.0, 0.02795698924731183, 0.040444091990483745]
+Entropy for Stage79:-1.0
+Stage for79[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage80:-1.0
+Stage for80[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage81:-1.0
+Stage for81[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage82:-1.0
+Stage for82[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage83:-1.0
+Stage for83[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage84:-1.0
+Stage for84[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage85:-1.0
+Stage for85[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage86:-1.0
+Stage for86[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage87:-1.0
+Stage for87[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage88:-1.0
+Stage for88[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage89:-1.0
+Stage for89[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage90:-1.0
+Stage for90[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage91:-1.0
+Stage for91[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage92:-1.0
+Stage for92[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage93:-1.0
+Stage for93[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage94:-1.0
+Stage for94[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage95:-1.0
+Stage for95[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage96:-1.0
+Stage for96[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage97:-1.0
+Stage for97[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage98:-1.0
+Stage for98[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage99:1.377158744535063
+Stage for99[5.0212765957446805, 3.8796296296296298, 4.8125, 5.696428571428571]
+Entropy for Stage100:1.0340630597664349
+Stage for100[0.03644158628081458, 0.0, 0.05128205128205128, 0.08693009118541034]
+Entropy for Stage101:-1.0
+Stage for101[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage102:-1.0
+Stage for102[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage103:-1.0
+Stage for103[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage104:-1.0
+Stage for104[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage105:-1.0
+Stage for105[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage106:-1.0
+Stage for106[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage107:-1.0
+Stage for107[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage108:-1.0
+Stage for108[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage109:-1.0
+Stage for109[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage110:-1.0
+Stage for110[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage111:-1.0
+Stage for111[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage112:-1.0
+Stage for112[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage113:-1.0
+Stage for113[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage114:-1.0
+Stage for114[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage115:-1.0
+Stage for115[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage116:-1.0
+Stage for116[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage117:-1.0
+Stage for117[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage118:-1.0
+Stage for118[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage119:-1.0
+Stage for119[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage120:-1.0
+Stage for120[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage121:-1.0
+Stage for121[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage122:-1.0
+Stage for122[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage123:-1.0
+Stage for123[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage124:1.378617402623785
+Stage for124[3.9574468085106385, 3.0462962962962963, 4.13, 4.206632653061225]
+Entropy for Stage125:1.0140098265842497
+Stage for125[0.2033898305084746, 0.0, 0.21929824561403508, 0.4831932773109244]
+Entropy for Stage126:-1.0
+Stage for126[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage127:-1.0
+Stage for127[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage128:-1.0
+Stage for128[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage129:-1.0
+Stage for129[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage130:-1.0
+Stage for130[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage131:-1.0
+Stage for131[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage132:-1.0
+Stage for132[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage133:-1.0
+Stage for133[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage134:-1.0
+Stage for134[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage135:-1.0
+Stage for135[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage136:-1.0
+Stage for136[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage137:-1.0
+Stage for137[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage138:-1.0
+Stage for138[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage139:-1.0
+Stage for139[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage140:-1.0
+Stage for140[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage141:-1.0
+Stage for141[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage142:-1.0
+Stage for142[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage143:-1.0
+Stage for143[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage144:-1.0
+Stage for144[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage145:-1.0
+Stage for145[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage146:-1.0
+Stage for146[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage147:-1.0
+Stage for147[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage148:-1.0
+Stage for148[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage149:-1.0
+Stage for149[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage150:-1.0
+Stage for150[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage151:-1.0
+Stage for151[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage152:1.3810354581013162
+Stage for152[2.5691489361702127, 2.678240740740741, 3.1425, 3.2755102040816326]
+Entropy for Stage153:0.8658374495015737
+Stage for153[0.46153846153846156, 0.0, 0.5, 1.9322033898305084]
+Entropy for Stage154:-1.0
+Stage for154[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage155:-1.0
+Stage for155[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage156:-1.0
+Stage for156[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage157:-1.0
+Stage for157[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage158:-1.0
+Stage for158[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage159:-1.0
+Stage for159[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage160:-1.0
+Stage for160[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage161:-1.0
+Stage for161[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage162:-1.0
+Stage for162[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage163:-1.0
+Stage for163[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage164:-1.0
+Stage for164[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage165:-1.0
+Stage for165[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage166:-1.0
+Stage for166[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage167:-1.0
+Stage for167[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage168:-1.0
+Stage for168[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage169:-1.0
+Stage for169[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage170:-1.0
+Stage for170[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage171:-1.0
+Stage for171[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage172:-1.0
+Stage for172[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage173:-1.0
+Stage for173[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage174:-1.0
+Stage for174[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage175:-1.0
+Stage for175[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage176:-1.0
+Stage for176[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage177:-1.0
+Stage for177[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage178:-1.0
+Stage for178[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage179:-1.0
+Stage for179[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage180:-1.0
+Stage for180[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage181:-1.0
+Stage for181[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage182:-1.0
+Stage for182[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage183:1.368039149845929
+Stage for183[2.627659574468085, 1.9976851851851851, 3.0375, 3.3979591836734695]
+Entropy for Stage184:0.8431603243260442
+Stage for184[2.2, 0.0, 12.0, 3.5]
+Entropy for Stage185:-1.0
+Stage for185[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage186:-1.0
+Stage for186[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage187:-1.0
+Stage for187[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage188:-1.0
+Stage for188[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage189:-1.0
+Stage for189[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage190:-1.0
+Stage for190[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage191:-1.0
+Stage for191[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage192:-1.0
+Stage for192[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage193:-1.0
+Stage for193[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage194:-1.0
+Stage for194[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage195:-1.0
+Stage for195[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage196:-1.0
+Stage for196[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage197:-1.0
+Stage for197[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage198:-1.0
+Stage for198[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage199:-1.0
+Stage for199[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage200:-1.0
+Stage for200[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage201:-1.0
+Stage for201[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage202:-1.0
+Stage for202[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage203:-1.0
+Stage for203[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage204:-1.0
+Stage for204[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage205:-1.0
+Stage for205[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage206:-1.0
+Stage for206[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage207:-1.0
+Stage for207[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage208:-1.0
+Stage for208[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage209:-1.0
+Stage for209[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage210:-1.0
+Stage for210[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage211:-1.0
+Stage for211[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage212:-1.0
+Stage for212[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage213:-1.0
+Stage for213[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage214:-1.0
+Stage for214[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage215:-1.0
+Stage for215[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage216:-1.0
+Stage for216[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage217:1.3604704375077263
+Stage for217[2.859042553191489, 1.7800925925925926, 3.0725, 3.4005102040816326]
+Entropy for Stage218:0.7774905967374971
+Stage for218[5.333333333333333, 0.0, 10.5, 40.0]
+Entropy for Stage219:-1.0
+Stage for219[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage220:-1.0
+Stage for220[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage221:-1.0
+Stage for221[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage222:-1.0
+Stage for222[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage223:-1.0
+Stage for223[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage224:-1.0
+Stage for224[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage225:-1.0
+Stage for225[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage226:-1.0
+Stage for226[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage227:-1.0
+Stage for227[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage228:-1.0
+Stage for228[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage229:-1.0
+Stage for229[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage230:-1.0
+Stage for230[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage231:-1.0
+Stage for231[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage232:-1.0
+Stage for232[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage233:-1.0
+Stage for233[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage234:-1.0
+Stage for234[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage235:-1.0
+Stage for235[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage236:-1.0
+Stage for236[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage237:-1.0
+Stage for237[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage238:-1.0
+Stage for238[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage239:-1.0
+Stage for239[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage240:-1.0
+Stage for240[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage241:-1.0
+Stage for241[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage242:-1.0
+Stage for242[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage243:-1.0
+Stage for243[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage244:-1.0
+Stage for244[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage245:-1.0
+Stage for245[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage246:-1.0
+Stage for246[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage247:-1.0
+Stage for247[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage248:-1.0
+Stage for248[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage249:-1.0
+Stage for249[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage250:-1.0
+Stage for250[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage251:-1.0
+Stage for251[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage252:-1.0
+Stage for252[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage253:-1.0
+Stage for253[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage254:1.3702610545392528
+Stage for254[2.904255319148936, 1.9444444444444444, 2.9725, 3.1785714285714284]
+Entropy for Stage255:0.0
+Stage for255[0.0, 0.0, 0.0, 15.5]
+Entropy for Stage256:-1.0
+Stage for256[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage257:-1.0
+Stage for257[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage258:-1.0
+Stage for258[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage259:-1.0
+Stage for259[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage260:-1.0
+Stage for260[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage261:-1.0
+Stage for261[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage262:-1.0
+Stage for262[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage263:-1.0
+Stage for263[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage264:-1.0
+Stage for264[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage265:-1.0
+Stage for265[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage266:-1.0
+Stage for266[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage267:-1.0
+Stage for267[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage268:-1.0
+Stage for268[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage269:-1.0
+Stage for269[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage270:-1.0
+Stage for270[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage271:-1.0
+Stage for271[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage272:-1.0
+Stage for272[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage273:-1.0
+Stage for273[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage274:-1.0
+Stage for274[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage275:-1.0
+Stage for275[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage276:-1.0
+Stage for276[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage277:-1.0
+Stage for277[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage278:-1.0
+Stage for278[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage279:-1.0
+Stage for279[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage280:-1.0
+Stage for280[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage281:-1.0
+Stage for281[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage282:-1.0
+Stage for282[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage283:-1.0
+Stage for283[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage284:-1.0
+Stage for284[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage285:-1.0
+Stage for285[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage286:-1.0
+Stage for286[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage287:-1.0
+Stage for287[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage288:-1.0
+Stage for288[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage289:-1.0
+Stage for289[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage290:-1.0
+Stage for290[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage291:-1.0
+Stage for291[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage292:-1.0
+Stage for292[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage293:-1.0
+Stage for293[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage294:1.3758662861434032
+Stage for294[3.0106382978723403, 2.2037037037037037, 2.8975, 3.306122448979592]
+Entropy for Stage295:-1.0
+Stage for295[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage296:-1.0
+Stage for296[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage297:-1.0
+Stage for297[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage298:-1.0
+Stage for298[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage299:-1.0
+Stage for299[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage300:-1.0
+Stage for300[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage301:-1.0
+Stage for301[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage302:-1.0
+Stage for302[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage303:-1.0
+Stage for303[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage304:-1.0
+Stage for304[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage305:-1.0
+Stage for305[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage306:-1.0
+Stage for306[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage307:-1.0
+Stage for307[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage308:-1.0
+Stage for308[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage309:-1.0
+Stage for309[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage310:-1.0
+Stage for310[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage311:-1.0
+Stage for311[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage312:-1.0
+Stage for312[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage313:-1.0
+Stage for313[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage314:-1.0
+Stage for314[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage315:-1.0
+Stage for315[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage316:-1.0
+Stage for316[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage317:-1.0
+Stage for317[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage318:-1.0
+Stage for318[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage319:-1.0
+Stage for319[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage320:-1.0
+Stage for320[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage321:-1.0
+Stage for321[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage322:-1.0
+Stage for322[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage323:-1.0
+Stage for323[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage324:-1.0
+Stage for324[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage325:-1.0
+Stage for325[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage326:-1.0
+Stage for326[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage327:-1.0
+Stage for327[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage328:-1.0
+Stage for328[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage329:-1.0
+Stage for329[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage330:-1.0
+Stage for330[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage331:-1.0
+Stage for331[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage332:-1.0
+Stage for332[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage333:1.3772704056544403
+Stage for333[4.044609665427509, 3.005763688760807, 4.318965517241379, 4.085714285714285]
+Entropy for Stage334:-1.0
+Stage for334[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage335:-1.0
+Stage for335[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage336:-1.0
+Stage for336[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage337:-1.0
+Stage for337[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage338:-1.0
+Stage for338[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage339:-1.0
+Stage for339[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage340:-1.0
+Stage for340[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage341:-1.0
+Stage for341[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage342:-1.0
+Stage for342[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage343:-1.0
+Stage for343[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage344:-1.0
+Stage for344[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage345:-1.0
+Stage for345[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage346:-1.0
+Stage for346[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage347:-1.0
+Stage for347[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage348:-1.0
+Stage for348[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage349:-1.0
+Stage for349[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage350:-1.0
+Stage for350[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage351:-1.0
+Stage for351[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage352:-1.0
+Stage for352[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage353:-1.0
+Stage for353[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage354:-1.0
+Stage for354[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage355:-1.0
+Stage for355[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage356:-1.0
+Stage for356[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage357:-1.0
+Stage for357[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage358:-1.0
+Stage for358[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage359:-1.0
+Stage for359[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage360:-1.0
+Stage for360[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage361:-1.0
+Stage for361[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage362:-1.0
+Stage for362[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage363:-1.0
+Stage for363[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage364:-1.0
+Stage for364[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage365:-1.0
+Stage for365[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage366:-1.0
+Stage for366[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage367:-1.0
+Stage for367[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage368:-1.0
+Stage for368[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage369:-1.0
+Stage for369[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage370:-1.0
+Stage for370[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage371:-1.0
+Stage for371[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage372:-1.0
+Stage for372[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage373:-1.0
+Stage for373[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage374:-1.0
+Stage for374[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage375:-1.0
+Stage for375[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage376:-1.0
+Stage for376[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage377:-1.0
+Stage for377[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage378:-1.0
+Stage for378[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage379:-1.0
+Stage for379[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage380:-1.0
+Stage for380[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage381:-1.0
+Stage for381[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage382:-1.0
+Stage for382[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage383:-1.0
+Stage for383[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage384:-1.0
+Stage for384[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage385:-1.0
+Stage for385[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage386:-1.0
+Stage for386[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage387:-1.0
+Stage for387[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage388:-1.0
+Stage for388[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage389:-1.0
+Stage for389[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage390:-1.0
+Stage for390[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage391:-1.0
+Stage for391[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage392:-1.0
+Stage for392[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage393:-1.0
+Stage for393[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage394:-1.0
+Stage for394[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage395:-1.0
+Stage for395[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage396:-1.0
+Stage for396[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage397:-1.0
+Stage for397[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage398:-1.0
+Stage for398[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage399:-1.0
+Stage for399[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage400:-1.0
+Stage for400[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage401:-1.0
+Stage for401[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage402:-1.0
+Stage for402[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage403:-1.0
+Stage for403[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage404:-1.0
+Stage for404[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage405:-1.0
+Stage for405[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage406:-1.0
+Stage for406[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage407:-1.0
+Stage for407[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage408:-1.0
+Stage for408[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage409:-1.0
+Stage for409[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage410:-1.0
+Stage for410[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage411:-1.0
+Stage for411[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage412:-1.0
+Stage for412[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage413:-1.0
+Stage for413[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage414:1.0826947623247052
+Stage for414[0.0, 0.009066868152625614, 0.005833845074129309, 0.0073428178063331805]
+Entropy for Stage415:-1.0
+Stage for415[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage416:-1.0
+Stage for416[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage417:-1.0
+Stage for417[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage418:-1.0
+Stage for418[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage419:-1.0
+Stage for419[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage420:-1.0
+Stage for420[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage421:0.0
+Stage for421[0.0, 3.25, 0.0, 0.0]
+Entropy for Stage422:-1.0
+Stage for422[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage423:1.3737302601177994
+Stage for423[0.4171864171864172, 0.3867747972551466, 0.447178002894356, 0.2884788478847885]
+Entropy for Stage424:-1.0
+Stage for424[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage425:-1.0
+Stage for425[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage426:1.3797267329761826
+Stage for426[0.707936507936508, 0.9231754161331626, 0.7756410256410257, 0.9284750337381916]
+Entropy for Stage427:1.3180260209032246
+Stage for427[1.3603603603603605, 0.46222664015904574, 1.1001788908765653, 0.8079847908745247]
+Entropy for Stage428:-1.0
+Stage for428[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage429:1.3842612853110836
+Stage for429[0.18481450823989767, 0.19747159545527285, 0.195735281624331, 0.22003269160915365]
+Entropy for Stage430:1.3756679357994042
+Stage for430[1.072856221792392, 0.8967452300785634, 0.7121212121212122, 0.9647495361781077]
+Entropy for Stage431:-1.0
+Stage for431[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage432:-1.0
+Stage for432[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage433:-1.0
+Stage for433[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage434:-1.0
+Stage for434[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage435:-1.0
+Stage for435[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage436:-1.0
+Stage for436[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage437:-1.0
+Stage for437[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage438:-1.0
+Stage for438[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage439:1.3860772477674552
+Stage for439[1.5332043842682141, 1.5044893378226711, 1.56989898989899, 1.4856730571016286]
+Entropy for Stage440:1.3464446592884074
+Stage for440[0.07134071340713408, 0.16450022411474674, 0.11806638449543329, 0.127134724857685]
+Entropy for Stage441:-1.0
+Stage for441[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage442:-1.0
+Stage for442[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage443:-1.0
+Stage for443[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage444:-1.0
+Stage for444[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage445:-1.0
+Stage for445[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage446:-1.0
+Stage for446[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage447:-1.0
+Stage for447[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage448:-1.0
+Stage for448[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage449:-1.0
+Stage for449[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage450:-1.0
+Stage for450[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage451:-1.0
+Stage for451[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage452:1.3862653511121883
+Stage for452[1.3200085966043413, 1.3060231949120837, 1.3337373737373737, 1.3147804576376005]
+Entropy for Stage453:1.3138721083121356
+Stage for453[0.05920709441836203, 0.1689936009307737, 0.11026615969581749, 0.08428390367553866]
+Entropy for Stage454:-1.0
+Stage for454[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage455:-1.0
+Stage for455[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage456:-1.0
+Stage for456[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage457:-1.0
+Stage for457[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage458:-1.0
+Stage for458[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage459:-1.0
+Stage for459[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage460:-1.0
+Stage for460[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage461:-1.0
+Stage for461[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage462:-1.0
+Stage for462[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage463:-1.0
+Stage for463[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage464:-1.0
+Stage for464[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage465:-1.0
+Stage for465[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage466:-1.0
+Stage for466[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage467:-1.0
+Stage for467[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage468:1.3846168035523378
+Stage for468[1.3729851708575114, 1.2084736251402919, 1.2672727272727273, 1.1824366110080395]
+Entropy for Stage469:1.3278179736880382
+Stage for469[0.21860816944024206, 0.31625441696113077, 0.18197135636057288, 0.11882229232386961]
+Entropy for Stage470:-1.0
+Stage for470[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage471:-1.0
+Stage for471[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage472:-1.0
+Stage for472[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage473:-1.0
+Stage for473[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage474:-1.0
+Stage for474[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage475:-1.0
+Stage for475[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage476:-1.0
+Stage for476[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage477:-1.0
+Stage for477[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage478:-1.0
+Stage for478[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage479:-1.0
+Stage for479[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage480:-1.0
+Stage for480[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage481:-1.0
+Stage for481[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage482:-1.0
+Stage for482[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage483:-1.0
+Stage for483[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage484:-1.0
+Stage for484[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage485:-1.0
+Stage for485[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage486:-1.0
+Stage for486[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage487:1.3861241108093745
+Stage for487[0.905544809800129, 0.8914141414141414, 0.8606060606060606, 0.8824984539270253]
+Entropy for Stage488:1.3637456771856824
+Stage for488[0.2553542009884679, 0.43902439024390244, 0.2980392156862745, 0.2911111111111111]
+Entropy for Stage489:-1.0
+Stage for489[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage490:-1.0
+Stage for490[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage491:-1.0
+Stage for491[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage492:-1.0
+Stage for492[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage493:-1.0
+Stage for493[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage494:-1.0
+Stage for494[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage495:-1.0
+Stage for495[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage496:-1.0
+Stage for496[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage497:-1.0
+Stage for497[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage498:-1.0
+Stage for498[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage499:-1.0
+Stage for499[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage500:-1.0
+Stage for500[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage501:-1.0
+Stage for501[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage502:-1.0
+Stage for502[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage503:-1.0
+Stage for503[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage504:-1.0
+Stage for504[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage505:-1.0
+Stage for505[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage506:-1.0
+Stage for506[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage507:-1.0
+Stage for507[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage508:-1.0
+Stage for508[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage509:1.3851803660624946
+Stage for509[0.9535783365570599, 0.8465207631874299, 0.8875757575757576, 0.8552875695732839]
+Entropy for Stage510:1.3166516493568357
+Stage for510[0.36347517730496454, 0.6065989847715736, 0.29835390946502055, 0.2246376811594203]
+Entropy for Stage511:-1.0
+Stage for511[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage512:-1.0
+Stage for512[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage513:-1.0
+Stage for513[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage514:-1.0
+Stage for514[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage515:-1.0
+Stage for515[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage516:-1.0
+Stage for516[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage517:-1.0
+Stage for517[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage518:-1.0
+Stage for518[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage519:-1.0
+Stage for519[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage520:-1.0
+Stage for520[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage521:-1.0
+Stage for521[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage522:-1.0
+Stage for522[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage523:-1.0
+Stage for523[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage524:-1.0
+Stage for524[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage525:-1.0
+Stage for525[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage526:-1.0
+Stage for526[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage527:-1.0
+Stage for527[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage528:-1.0
+Stage for528[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage529:-1.0
+Stage for529[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage530:-1.0
+Stage for530[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage531:-1.0
+Stage for531[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage532:-1.0
+Stage for532[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage533:-1.0
+Stage for533[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage534:1.3854843192473738
+Stage for534[1.312701482914249, 1.1978114478114479, 1.3036363636363637, 1.2186147186147187]
+Entropy for Stage535:1.2987242828138104
+Stage for535[0.12854030501089325, 0.2020066889632107, 0.2900274473924977, 0.09417685118619698]
+Entropy for Stage536:-1.0
+Stage for536[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage537:-1.0
+Stage for537[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage538:-1.0
+Stage for538[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage539:-1.0
+Stage for539[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage540:-1.0
+Stage for540[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage541:-1.0
+Stage for541[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage542:-1.0
+Stage for542[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage543:-1.0
+Stage for543[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage544:-1.0
+Stage for544[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage545:-1.0
+Stage for545[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage546:-1.0
+Stage for546[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage547:-1.0
+Stage for547[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage548:-1.0
+Stage for548[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage549:-1.0
+Stage for549[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage550:-1.0
+Stage for550[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage551:-1.0
+Stage for551[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage552:-1.0
+Stage for552[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage553:-1.0
+Stage for553[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage554:-1.0
+Stage for554[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage555:-1.0
+Stage for555[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage556:-1.0
+Stage for556[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage557:-1.0
+Stage for557[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage558:-1.0
+Stage for558[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage559:-1.0
+Stage for559[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage560:-1.0
+Stage for560[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage561:-1.0
+Stage for561[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage562:1.3859125808272208
+Stage for562[0.8226950354609929, 0.8195847362514029, 0.8593939393939394, 0.8738404452690167]
+Entropy for Stage563:1.3489094338789651
+Stage for563[0.30687830687830686, 0.6171284634760705, 0.40877598152424943, 0.35276967930029157]
+Entropy for Stage564:-1.0
+Stage for564[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage565:-1.0
+Stage for565[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage566:-1.0
+Stage for566[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage567:-1.0
+Stage for567[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage568:-1.0
+Stage for568[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage569:-1.0
+Stage for569[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage570:-1.0
+Stage for570[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage571:-1.0
+Stage for571[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage572:-1.0
+Stage for572[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage573:-1.0
+Stage for573[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage574:-1.0
+Stage for574[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage575:-1.0
+Stage for575[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage576:-1.0
+Stage for576[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage577:-1.0
+Stage for577[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage578:-1.0
+Stage for578[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage579:-1.0
+Stage for579[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage580:-1.0
+Stage for580[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage581:-1.0
+Stage for581[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage582:-1.0
+Stage for582[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage583:-1.0
+Stage for583[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage584:-1.0
+Stage for584[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage585:-1.0
+Stage for585[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage586:-1.0
+Stage for586[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage587:-1.0
+Stage for587[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage588:-1.0
+Stage for588[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage589:-1.0
+Stage for589[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage590:-1.0
+Stage for590[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage591:-1.0
+Stage for591[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage592:-1.0
+Stage for592[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage593:1.3860157639977941
+Stage for593[0.6137975499677627, 0.5895061728395061, 0.6157575757575757, 0.629560915275201]
+Entropy for Stage594:1.3699334526512559
+Stage for594[1.1517857142857142, 0.8, 1.117117117117117, 1.3461538461538463]
+Entropy for Stage595:-1.0
+Stage for595[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage596:-1.0
+Stage for596[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage597:-1.0
+Stage for597[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage598:-1.0
+Stage for598[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage599:-1.0
+Stage for599[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage600:-1.0
+Stage for600[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage601:-1.0
+Stage for601[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage602:-1.0
+Stage for602[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage603:-1.0
+Stage for603[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage604:-1.0
+Stage for604[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage605:-1.0
+Stage for605[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage606:-1.0
+Stage for606[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage607:-1.0
+Stage for607[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage608:-1.0
+Stage for608[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage609:-1.0
+Stage for609[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage610:-1.0
+Stage for610[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage611:-1.0
+Stage for611[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage612:-1.0
+Stage for612[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage613:-1.0
+Stage for613[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage614:-1.0
+Stage for614[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage615:-1.0
+Stage for615[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage616:-1.0
+Stage for616[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage617:-1.0
+Stage for617[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage618:-1.0
+Stage for618[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage619:-1.0
+Stage for619[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage620:-1.0
+Stage for620[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage621:-1.0
+Stage for621[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage622:-1.0
+Stage for622[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage623:-1.0
+Stage for623[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage624:-1.0
+Stage for624[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage625:-1.0
+Stage for625[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage626:-1.0
+Stage for626[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage627:1.3839357793728297
+Stage for627[0.5551257253384912, 0.5185185185185185, 0.5875757575757575, 0.6246134817563389]
+Entropy for Stage628:1.3299132554750326
+Stage for628[3.6666666666666665, 4.541666666666667, 5.111111111111111, 8.705882352941176]
+Entropy for Stage629:-1.0
+Stage for629[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage630:-1.0
+Stage for630[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage631:-1.0
+Stage for631[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage632:-1.0
+Stage for632[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage633:-1.0
+Stage for633[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage634:-1.0
+Stage for634[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage635:-1.0
+Stage for635[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage636:-1.0
+Stage for636[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage637:-1.0
+Stage for637[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage638:-1.0
+Stage for638[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage639:-1.0
+Stage for639[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage640:-1.0
+Stage for640[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage641:-1.0
+Stage for641[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage642:-1.0
+Stage for642[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage643:-1.0
+Stage for643[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage644:-1.0
+Stage for644[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage645:-1.0
+Stage for645[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage646:-1.0
+Stage for646[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage647:-1.0
+Stage for647[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage648:-1.0
+Stage for648[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage649:-1.0
+Stage for649[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage650:-1.0
+Stage for650[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage651:-1.0
+Stage for651[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage652:-1.0
+Stage for652[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage653:-1.0
+Stage for653[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage654:-1.0
+Stage for654[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage655:-1.0
+Stage for655[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage656:-1.0
+Stage for656[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage657:-1.0
+Stage for657[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage658:-1.0
+Stage for658[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage659:-1.0
+Stage for659[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage660:-1.0
+Stage for660[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage661:-1.0
+Stage for661[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage662:-1.0
+Stage for662[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage663:-1.0
+Stage for663[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage664:1.372941942029016
+Stage for664[0.6495809155383624, 0.5255331088664422, 0.4178787878787879, 0.608534322820037]
+Entropy for Stage665:1.3679167334750744
+Stage for665[10.636363636363637, 11.833333333333334, 8.4, 14.4]
+Entropy for Stage666:-1.0
+Stage for666[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage667:-1.0
+Stage for667[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage668:-1.0
+Stage for668[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage669:-1.0
+Stage for669[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage670:-1.0
+Stage for670[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage671:-1.0
+Stage for671[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage672:-1.0
+Stage for672[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage673:-1.0
+Stage for673[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage674:-1.0
+Stage for674[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage675:-1.0
+Stage for675[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage676:-1.0
+Stage for676[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage677:-1.0
+Stage for677[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage678:-1.0
+Stage for678[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage679:-1.0
+Stage for679[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage680:-1.0
+Stage for680[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage681:-1.0
+Stage for681[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage682:-1.0
+Stage for682[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage683:-1.0
+Stage for683[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage684:-1.0
+Stage for684[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage685:-1.0
+Stage for685[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage686:-1.0
+Stage for686[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage687:-1.0
+Stage for687[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage688:-1.0
+Stage for688[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage689:-1.0
+Stage for689[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage690:-1.0
+Stage for690[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage691:-1.0
+Stage for691[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage692:-1.0
+Stage for692[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage693:-1.0
+Stage for693[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage694:-1.0
+Stage for694[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage695:-1.0
+Stage for695[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage696:-1.0
+Stage for696[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage697:-1.0
+Stage for697[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage698:-1.0
+Stage for698[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage699:-1.0
+Stage for699[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage700:-1.0
+Stage for700[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage701:-1.0
+Stage for701[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage702:-1.0
+Stage for702[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage703:-1.0
+Stage for703[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage704:1.383433839537778
+Stage for704[0.5354609929078015, 0.5025252525252525, 0.4690909090909091, 0.5754483611626469]
+Entropy for Stage705:1.1803252123651011
+Stage for705[88.0, 45.0, 8.8, 87.0]
+Entropy for Stage706:-1.0
+Stage for706[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage707:-1.0
+Stage for707[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage708:-1.0
+Stage for708[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage709:-1.0
+Stage for709[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage710:-1.0
+Stage for710[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage711:-1.0
+Stage for711[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage712:-1.0
+Stage for712[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage713:-1.0
+Stage for713[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage714:-1.0
+Stage for714[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage715:-1.0
+Stage for715[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage716:-1.0
+Stage for716[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage717:-1.0
+Stage for717[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage718:-1.0
+Stage for718[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage719:-1.0
+Stage for719[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage720:-1.0
+Stage for720[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage721:-1.0
+Stage for721[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage722:-1.0
+Stage for722[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage723:-1.0
+Stage for723[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage724:-1.0
+Stage for724[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage725:-1.0
+Stage for725[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage726:-1.0
+Stage for726[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage727:-1.0
+Stage for727[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage728:-1.0
+Stage for728[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage729:-1.0
+Stage for729[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage730:-1.0
+Stage for730[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage731:-1.0
+Stage for731[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage732:-1.0
+Stage for732[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage733:-1.0
+Stage for733[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage734:-1.0
+Stage for734[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage735:-1.0
+Stage for735[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage736:-1.0
+Stage for736[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage737:-1.0
+Stage for737[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage738:-1.0
+Stage for738[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage739:-1.0
+Stage for739[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage740:-1.0
+Stage for740[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage741:-1.0
+Stage for741[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage742:-1.0
+Stage for742[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage743:-1.0
+Stage for743[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage744:-1.0
+Stage for744[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage745:-1.0
+Stage for745[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage746:-1.0
+Stage for746[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage747:1.385934055749096
+Stage for747[0.5290135396518375, 0.5064534231200898, 0.5106060606060606, 0.5411255411255411]
+Entropy for Stage748:0.0
+Stage for748[0.0, 0.0, 0.0, 61.0]
+Entropy for Stage749:-1.0
+Stage for749[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage750:-1.0
+Stage for750[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage751:-1.0
+Stage for751[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage752:-1.0
+Stage for752[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage753:-1.0
+Stage for753[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage754:-1.0
+Stage for754[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage755:-1.0
+Stage for755[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage756:-1.0
+Stage for756[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage757:-1.0
+Stage for757[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage758:-1.0
+Stage for758[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage759:-1.0
+Stage for759[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage760:-1.0
+Stage for760[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage761:-1.0
+Stage for761[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage762:-1.0
+Stage for762[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage763:-1.0
+Stage for763[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage764:-1.0
+Stage for764[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage765:-1.0
+Stage for765[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage766:-1.0
+Stage for766[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage767:-1.0
+Stage for767[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage768:-1.0
+Stage for768[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage769:-1.0
+Stage for769[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage770:-1.0
+Stage for770[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage771:-1.0
+Stage for771[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage772:-1.0
+Stage for772[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage773:-1.0
+Stage for773[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage774:-1.0
+Stage for774[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage775:-1.0
+Stage for775[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage776:-1.0
+Stage for776[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage777:-1.0
+Stage for777[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage778:-1.0
+Stage for778[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage779:-1.0
+Stage for779[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage780:-1.0
+Stage for780[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage781:-1.0
+Stage for781[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage782:-1.0
+Stage for782[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage783:-1.0
+Stage for783[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage784:-1.0
+Stage for784[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage785:-1.0
+Stage for785[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage786:-1.0
+Stage for786[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage787:-1.0
+Stage for787[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage788:-1.0
+Stage for788[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage789:-1.0
+Stage for789[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage790:-1.0
+Stage for790[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage791:-1.0
+Stage for791[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage792:-1.0
+Stage for792[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage793:1.382439481483237
+Stage for793[0.5602836879432624, 0.5488215488215489, 0.4612121212121212, 0.47000618429189855]
+Entropy for Stage794:-1.0
+Stage for794[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage795:-1.0
+Stage for795[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage796:-1.0
+Stage for796[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage797:-1.0
+Stage for797[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage798:-1.0
+Stage for798[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage799:-1.0
+Stage for799[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage800:-1.0
+Stage for800[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage801:-1.0
+Stage for801[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage802:-1.0
+Stage for802[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage803:-1.0
+Stage for803[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage804:-1.0
+Stage for804[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage805:-1.0
+Stage for805[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage806:-1.0
+Stage for806[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage807:-1.0
+Stage for807[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage808:-1.0
+Stage for808[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage809:-1.0
+Stage for809[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage810:-1.0
+Stage for810[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage811:-1.0
+Stage for811[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage812:-1.0
+Stage for812[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage813:-1.0
+Stage for813[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage814:-1.0
+Stage for814[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage815:-1.0
+Stage for815[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage816:-1.0
+Stage for816[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage817:-1.0
+Stage for817[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage818:-1.0
+Stage for818[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage819:-1.0
+Stage for819[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage820:-1.0
+Stage for820[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage821:-1.0
+Stage for821[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage822:-1.0
+Stage for822[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage823:-1.0
+Stage for823[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage824:-1.0
+Stage for824[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage825:-1.0
+Stage for825[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage826:-1.0
+Stage for826[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage827:-1.0
+Stage for827[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage828:-1.0
+Stage for828[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage829:-1.0
+Stage for829[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage830:-1.0
+Stage for830[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage831:-1.0
+Stage for831[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage832:-1.0
+Stage for832[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage833:-1.0
+Stage for833[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage834:-1.0
+Stage for834[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage835:-1.0
+Stage for835[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage836:-1.0
+Stage for836[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage837:-1.0
+Stage for837[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage838:1.37256974593823
+Stage for838[4.143459915611814, 2.934375, 2.777126099706745, 2.9717868338557993]
+Entropy for Stage839:0.0
+Stage for839[0.0, 0.095, 0.0, 0.0]
+Entropy for Stage840:-1.0
+Stage for840[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage841:-1.0
+Stage for841[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage842:-1.0
+Stage for842[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage843:-1.0
+Stage for843[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage844:-1.0
+Stage for844[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage845:-1.0
+Stage for845[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage846:-1.0
+Stage for846[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage847:-1.0
+Stage for847[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage848:-1.0
+Stage for848[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage849:-1.0
+Stage for849[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage850:-1.0
+Stage for850[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage851:-1.0
+Stage for851[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage852:-1.0
+Stage for852[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage853:-1.0
+Stage for853[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage854:-1.0
+Stage for854[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage855:-1.0
+Stage for855[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage856:-1.0
+Stage for856[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage857:-1.0
+Stage for857[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage858:-1.0
+Stage for858[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage859:-1.0
+Stage for859[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage860:-1.0
+Stage for860[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage861:-1.0
+Stage for861[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage862:-1.0
+Stage for862[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage863:-1.0
+Stage for863[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage864:-1.0
+Stage for864[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage865:-1.0
+Stage for865[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage866:-1.0
+Stage for866[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage867:-1.0
+Stage for867[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage868:-1.0
+Stage for868[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage869:-1.0
+Stage for869[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage870:-1.0
+Stage for870[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage871:-1.0
+Stage for871[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage872:-1.0
+Stage for872[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage873:-1.0
+Stage for873[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage874:-1.0
+Stage for874[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage875:-1.0
+Stage for875[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage876:-1.0
+Stage for876[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage877:-1.0
+Stage for877[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage878:-1.0
+Stage for878[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage879:-1.0
+Stage for879[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage880:-1.0
+Stage for880[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage881:-1.0
+Stage for881[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage882:-1.0
+Stage for882[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage883:1.363212367460491
+Stage for883[3.6837606837606836, 3.1382978723404253, 1.986078886310905, 3.2037037037037037]
+Entropy for Stage884:-1.0
+Stage for884[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage885:-1.0
+Stage for885[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage886:-1.0
+Stage for886[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage887:-1.0
+Stage for887[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage888:-1.0
+Stage for888[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage889:-1.0
+Stage for889[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage890:1.3859522449255
+Stage for890[2.5654416505480335, 2.38327721661055, 2.4896969696969697, 2.4879406307977736]
+Entropy for Stage891:1.3760846933318798
+Stage for891[0.06366161076693014, 0.06789479782180512, 0.06832448092708836, 0.09078964656418342]
+Entropy for Stage892:-1.0
+Stage for892[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage893:-1.0
+Stage for893[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage894:-1.0
+Stage for894[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage895:-1.0
+Stage for895[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage896:-1.0
+Stage for896[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage897:-1.0
+Stage for897[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage898:-1.0
+Stage for898[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage899:-1.0
+Stage for899[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage900:-1.0
+Stage for900[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage901:-1.0
+Stage for901[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage902:1.2988429143548479
+Stage for902[0.1037344398340249, 0.13301435406698564, 0.2478793590951932, 0.30265848670756645]
+Entropy for Stage903:-1.0
+Stage for903[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage904:-1.0
+Stage for904[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage905:-1.0
+Stage for905[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage906:-1.0
+Stage for906[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage907:-1.0
+Stage for907[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage908:-1.0
+Stage for908[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage909:1.3854603291880054
+Stage for909[0.9542230818826564, 0.8647586980920314, 0.8709090909090909, 0.9214594928880643]
+Entropy for Stage910:1.3855786916126849
+Stage for910[1.1002732814799243, 1.166971637694419, 1.0788925895087427, 1.0546683046683047]
+Entropy for Stage911:1.386236593709526
+Stage for911[1.0963184931506849, 1.1080227416298167, 1.0900653870491457, 1.1211600429645543]
+Entropy for Stage912:1.3856154612750822
+Stage for912[0.13450479233226836, 0.14512025901942646, 0.14499758337361043, 0.14846394168185367]
+Entropy for Stage913:1.3858150778394318
+Stage for913[2.4131106988249846, 2.5311942959001783, 2.3442424242424242, 2.3515151515151516]
+Entropy for Stage914:-1.0
+Stage for914[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage915:1.3841000996422261
+Stage for915[0.07912673056443024, 0.09227567067530065, 0.07986950217496375, 0.08864878937776621]
+Entropy for Stage916:-1.0
+Stage for916[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage917:-1.0
+Stage for917[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage918:-1.0
+Stage for918[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage919:-1.0
+Stage for919[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage920:-1.0
+Stage for920[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage921:-1.0
+Stage for921[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage922:-1.0
+Stage for922[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage923:-1.0
+Stage for923[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage924:-1.0
+Stage for924[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage925:-1.0
+Stage for925[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage926:-1.0
+Stage for926[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage927:-1.0
+Stage for927[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage928:-1.0
+Stage for928[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage929:-1.0
+Stage for929[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage930:-1.0
+Stage for930[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage931:-1.0
+Stage for931[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage932:-1.0
+Stage for932[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage933:-1.0
+Stage for933[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage934:-1.0
+Stage for934[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage935:-1.0
+Stage for935[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage936:1.3843664529195074
+Stage for936[0.5963894261766602, 0.5289936401047513, 0.5363636363636364, 0.5042259327973614]
+Entropy for Stage937:1.3263253604951322
+Stage for937[1.0675675675675675, 0.9161290322580645, 0.852112676056338, 0.373134328358209]
+Entropy for Stage938:-1.0
+Stage for938[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage939:-1.0
+Stage for939[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage940:-1.0
+Stage for940[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage941:-1.0
+Stage for941[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage942:-1.0
+Stage for942[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage943:-1.0
+Stage for943[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage944:-1.0
+Stage for944[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage945:-1.0
+Stage for945[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage946:-1.0
+Stage for946[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage947:-1.0
+Stage for947[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage948:-1.0
+Stage for948[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage949:1.3840700128635297
+Stage for949[0.7543520309477756, 0.6352413019079686, 0.6511111111111111, 0.6806843949701092]
+Entropy for Stage950:1.3840496162073024
+Stage for950[0.2219056663501108, 0.20171526586620928, 0.1835597352838732, 0.2025894897182026]
+Entropy for Stage951:-1.0
+Stage for951[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage952:-1.0
+Stage for952[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage953:-1.0
+Stage for953[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage954:-1.0
+Stage for954[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage955:-1.0
+Stage for955[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage956:-1.0
+Stage for956[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage957:-1.0
+Stage for957[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage958:-1.0
+Stage for958[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage959:-1.0
+Stage for959[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage960:-1.0
+Stage for960[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage961:-1.0
+Stage for961[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage962:-1.0
+Stage for962[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage963:-1.0
+Stage for963[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage964:-1.0
+Stage for964[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage965:1.3850587247020403
+Stage for965[1.176982591876209, 1.0311447811447811, 1.1012121212121213, 1.1484230055658626]
+Entropy for Stage966:1.3850238568662865
+Stage for966[0.16058514135437213, 0.16605101143359718, 0.1812203142126416, 0.17896749521988528]
+Entropy for Stage967:-1.0
+Stage for967[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage968:-1.0
+Stage for968[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage969:-1.0
+Stage for969[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage970:-1.0
+Stage for970[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage971:-1.0
+Stage for971[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage972:-1.0
+Stage for972[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage973:-1.0
+Stage for973[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage974:-1.0
+Stage for974[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage975:-1.0
+Stage for975[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage976:-1.0
+Stage for976[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage977:-1.0
+Stage for977[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage978:-1.0
+Stage for978[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage979:-1.0
+Stage for979[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage980:-1.0
+Stage for980[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage981:-1.0
+Stage for981[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage982:-1.0
+Stage for982[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage983:-1.0
+Stage for983[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage984:1.385315232980686
+Stage for984[1.3188265635074146, 1.2157687991021324, 1.3206060606060606, 1.2009894867037725]
+Entropy for Stage985:1.3735695765320823
+Stage for985[0.127848475880438, 0.1786869340232859, 0.17380720545277506, 0.12801257422284318]
+Entropy for Stage986:-1.0
+Stage for986[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage987:-1.0
+Stage for987[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage988:-1.0
+Stage for988[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage989:-1.0
+Stage for989[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage990:-1.0
+Stage for990[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage991:-1.0
+Stage for991[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage992:-1.0
+Stage for992[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage993:-1.0
+Stage for993[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage994:-1.0
+Stage for994[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage995:-1.0
+Stage for995[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage996:-1.0
+Stage for996[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage997:-1.0
+Stage for997[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage998:-1.0
+Stage for998[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage999:-1.0
+Stage for999[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1000:-1.0
+Stage for1000[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1001:-1.0
+Stage for1001[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1002:-1.0
+Stage for1002[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1003:-1.0
+Stage for1003[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1004:-1.0
+Stage for1004[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1005:-1.0
+Stage for1005[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1006:1.3845890609704858
+Stage for1006[1.6096067053513863, 1.4110549943883277, 1.4445454545454546, 1.3905380333951762]
+Entropy for Stage1007:1.3852412062693176
+Stage for1007[0.22194907813871817, 0.2214678899082569, 0.21261817480223807, 0.19788338658146964]
+Entropy for Stage1008:-1.0
+Stage for1008[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1009:-1.0
+Stage for1009[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1010:-1.0
+Stage for1010[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1011:-1.0
+Stage for1011[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1012:-1.0
+Stage for1012[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1013:-1.0
+Stage for1013[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1014:-1.0
+Stage for1014[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1015:-1.0
+Stage for1015[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1016:-1.0
+Stage for1016[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1017:-1.0
+Stage for1017[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1018:-1.0
+Stage for1018[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1019:-1.0
+Stage for1019[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1020:-1.0
+Stage for1020[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1021:-1.0
+Stage for1021[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1022:-1.0
+Stage for1022[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1023:-1.0
+Stage for1023[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1024:-1.0
+Stage for1024[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1025:-1.0
+Stage for1025[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1026:-1.0
+Stage for1026[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1027:-1.0
+Stage for1027[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1028:-1.0
+Stage for1028[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1029:-1.0
+Stage for1029[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1030:-1.0
+Stage for1030[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1031:1.3860652275264895
+Stage for1031[1.9042553191489362, 1.8097643097643097, 1.8881818181818182, 1.9090909090909092]
+Entropy for Stage1032:1.3857348309991913
+Stage for1032[0.24343675417661098, 0.25295508274231676, 0.2564632885211996, 0.23539630836047773]
+Entropy for Stage1033:-1.0
+Stage for1033[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1034:-1.0
+Stage for1034[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1035:-1.0
+Stage for1035[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1036:-1.0
+Stage for1036[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1037:-1.0
+Stage for1037[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1038:-1.0
+Stage for1038[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1039:-1.0
+Stage for1039[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1040:-1.0
+Stage for1040[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1041:-1.0
+Stage for1041[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1042:-1.0
+Stage for1042[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1043:-1.0
+Stage for1043[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1044:-1.0
+Stage for1044[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1045:-1.0
+Stage for1045[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1046:-1.0
+Stage for1046[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1047:-1.0
+Stage for1047[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1048:-1.0
+Stage for1048[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1049:-1.0
+Stage for1049[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1050:-1.0
+Stage for1050[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1051:-1.0
+Stage for1051[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1052:-1.0
+Stage for1052[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1053:-1.0
+Stage for1053[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1054:-1.0
+Stage for1054[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1055:-1.0
+Stage for1055[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1056:-1.0
+Stage for1056[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1057:-1.0
+Stage for1057[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1058:-1.0
+Stage for1058[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1059:1.385545986655851
+Stage for1059[1.932301740812379, 1.7494388327721662, 1.8693939393939394, 1.7878787878787878]
+Entropy for Stage1060:1.3745255135733387
+Stage for1060[0.30102996254681647, 0.37008677896886166, 0.3572198275862069, 0.24856815578465064]
+Entropy for Stage1061:-1.0
+Stage for1061[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1062:-1.0
+Stage for1062[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1063:-1.0
+Stage for1063[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1064:-1.0
+Stage for1064[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1065:-1.0
+Stage for1065[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1066:-1.0
+Stage for1066[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1067:-1.0
+Stage for1067[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1068:-1.0
+Stage for1068[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1069:-1.0
+Stage for1069[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1070:-1.0
+Stage for1070[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1071:-1.0
+Stage for1071[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1072:-1.0
+Stage for1072[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1073:-1.0
+Stage for1073[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1074:-1.0
+Stage for1074[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1075:-1.0
+Stage for1075[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1076:-1.0
+Stage for1076[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1077:-1.0
+Stage for1077[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1078:-1.0
+Stage for1078[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1079:-1.0
+Stage for1079[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1080:-1.0
+Stage for1080[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1081:-1.0
+Stage for1081[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1082:-1.0
+Stage for1082[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1083:-1.0
+Stage for1083[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1084:-1.0
+Stage for1084[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1085:-1.0
+Stage for1085[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1086:-1.0
+Stage for1086[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1087:-1.0
+Stage for1087[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1088:-1.0
+Stage for1088[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1089:-1.0
+Stage for1089[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1090:1.3850873175324592
+Stage for1090[1.5541586073500968, 1.3849607182940515, 1.4706060606060607, 1.3800247371675942]
+Entropy for Stage1091:1.382858108865745
+Stage for1091[0.3748361730013106, 0.4731494920174166, 0.42608036391205456, 0.4386584289496911]
+Entropy for Stage1092:-1.0
+Stage for1092[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1093:-1.0
+Stage for1093[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1094:-1.0
+Stage for1094[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1095:-1.0
+Stage for1095[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1096:-1.0
+Stage for1096[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1097:-1.0
+Stage for1097[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1098:-1.0
+Stage for1098[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1099:-1.0
+Stage for1099[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1100:-1.0
+Stage for1100[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1101:-1.0
+Stage for1101[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1102:-1.0
+Stage for1102[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1103:-1.0
+Stage for1103[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1104:-1.0
+Stage for1104[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1105:-1.0
+Stage for1105[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1106:-1.0
+Stage for1106[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1107:-1.0
+Stage for1107[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1108:-1.0
+Stage for1108[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1109:-1.0
+Stage for1109[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1110:-1.0
+Stage for1110[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1111:-1.0
+Stage for1111[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1112:-1.0
+Stage for1112[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1113:-1.0
+Stage for1113[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1114:-1.0
+Stage for1114[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1115:-1.0
+Stage for1115[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1116:-1.0
+Stage for1116[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1117:-1.0
+Stage for1117[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1118:-1.0
+Stage for1118[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1119:-1.0
+Stage for1119[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1120:-1.0
+Stage for1120[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1121:-1.0
+Stage for1121[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1122:-1.0
+Stage for1122[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1123:-1.0
+Stage for1123[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1124:1.3845696013846873
+Stage for1124[1.8929722759509993, 1.7084736251402919, 1.7375757575757576, 1.6076066790352506]
+Entropy for Stage1125:1.3677212191531298
+Stage for1125[0.3854940034266134, 0.3680203045685279, 0.2741087083576856, 0.24182242990654207]
+Entropy for Stage1126:-1.0
+Stage for1126[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1127:-1.0
+Stage for1127[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1128:-1.0
+Stage for1128[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1129:-1.0
+Stage for1129[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1130:-1.0
+Stage for1130[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1131:-1.0
+Stage for1131[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1132:-1.0
+Stage for1132[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1133:-1.0
+Stage for1133[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1134:-1.0
+Stage for1134[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1135:-1.0
+Stage for1135[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1136:-1.0
+Stage for1136[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1137:-1.0
+Stage for1137[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1138:-1.0
+Stage for1138[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1139:-1.0
+Stage for1139[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1140:-1.0
+Stage for1140[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1141:-1.0
+Stage for1141[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1142:-1.0
+Stage for1142[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1143:-1.0
+Stage for1143[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1144:-1.0
+Stage for1144[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1145:-1.0
+Stage for1145[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1146:-1.0
+Stage for1146[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1147:-1.0
+Stage for1147[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1148:-1.0
+Stage for1148[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1149:-1.0
+Stage for1149[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1150:-1.0
+Stage for1150[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1151:-1.0
+Stage for1151[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1152:-1.0
+Stage for1152[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1153:-1.0
+Stage for1153[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1154:-1.0
+Stage for1154[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1155:-1.0
+Stage for1155[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1156:-1.0
+Stage for1156[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1157:-1.0
+Stage for1157[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1158:-1.0
+Stage for1158[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1159:-1.0
+Stage for1159[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1160:-1.0
+Stage for1160[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1161:1.3859019177057186
+Stage for1161[1.4477756286266925, 1.3956228956228955, 1.36, 1.3472479901051329]
+Entropy for Stage1162:1.3329094908037669
+Stage for1162[0.5509868421052632, 0.8756756756756757, 0.720754716981132, 0.34210526315789475]
+Entropy for Stage1163:-1.0
+Stage for1163[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1164:-1.0
+Stage for1164[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1165:-1.0
+Stage for1165[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1166:-1.0
+Stage for1166[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1167:-1.0
+Stage for1167[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1168:-1.0
+Stage for1168[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1169:-1.0
+Stage for1169[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1170:-1.0
+Stage for1170[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1171:-1.0
+Stage for1171[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1172:-1.0
+Stage for1172[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1173:-1.0
+Stage for1173[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1174:-1.0
+Stage for1174[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1175:-1.0
+Stage for1175[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1176:-1.0
+Stage for1176[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1177:-1.0
+Stage for1177[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1178:-1.0
+Stage for1178[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1179:-1.0
+Stage for1179[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1180:-1.0
+Stage for1180[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1181:-1.0
+Stage for1181[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1182:-1.0
+Stage for1182[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1183:-1.0
+Stage for1183[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1184:-1.0
+Stage for1184[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1185:-1.0
+Stage for1185[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1186:-1.0
+Stage for1186[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1187:-1.0
+Stage for1187[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1188:-1.0
+Stage for1188[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1189:-1.0
+Stage for1189[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1190:-1.0
+Stage for1190[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1191:-1.0
+Stage for1191[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1192:-1.0
+Stage for1192[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1193:-1.0
+Stage for1193[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1194:-1.0
+Stage for1194[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1195:-1.0
+Stage for1195[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1196:-1.0
+Stage for1196[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1197:-1.0
+Stage for1197[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1198:-1.0
+Stage for1198[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1199:-1.0
+Stage for1199[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1200:-1.0
+Stage for1200[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1201:1.3844840232672853
+Stage for1201[1.254674403610574, 1.0993265993265993, 1.0857575757575757, 1.1023500309214596]
+Entropy for Stage1202:1.3539039005464546
+Stage for1202[1.0043103448275863, 1.361256544502618, 0.7074468085106383, 0.8012820512820513]
+Entropy for Stage1203:-1.0
+Stage for1203[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1204:-1.0
+Stage for1204[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1205:-1.0
+Stage for1205[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1206:-1.0
+Stage for1206[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1207:-1.0
+Stage for1207[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1208:-1.0
+Stage for1208[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1209:-1.0
+Stage for1209[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1210:-1.0
+Stage for1210[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1211:-1.0
+Stage for1211[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1212:-1.0
+Stage for1212[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1213:-1.0
+Stage for1213[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1214:-1.0
+Stage for1214[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1215:-1.0
+Stage for1215[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1216:-1.0
+Stage for1216[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1217:-1.0
+Stage for1217[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1218:-1.0
+Stage for1218[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1219:-1.0
+Stage for1219[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1220:-1.0
+Stage for1220[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1221:-1.0
+Stage for1221[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1222:-1.0
+Stage for1222[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1223:-1.0
+Stage for1223[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1224:-1.0
+Stage for1224[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1225:-1.0
+Stage for1225[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1226:-1.0
+Stage for1226[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1227:-1.0
+Stage for1227[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1228:-1.0
+Stage for1228[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1229:-1.0
+Stage for1229[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1230:-1.0
+Stage for1230[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1231:-1.0
+Stage for1231[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1232:-1.0
+Stage for1232[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1233:-1.0
+Stage for1233[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1234:-1.0
+Stage for1234[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1235:-1.0
+Stage for1235[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1236:-1.0
+Stage for1236[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1237:-1.0
+Stage for1237[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1238:-1.0
+Stage for1238[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1239:-1.0
+Stage for1239[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1240:-1.0
+Stage for1240[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1241:-1.0
+Stage for1241[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1242:-1.0
+Stage for1242[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1243:-1.0
+Stage for1243[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1244:1.3855408933485927
+Stage for1244[1.0238555770470663, 0.9803591470258137, 0.9215151515151515, 0.9520717377860235]
+Entropy for Stage1245:1.3652513741276704
+Stage for1245[2.3559322033898304, 2.0476190476190474, 1.346938775510204, 1.6888888888888889]
+Entropy for Stage1246:-1.0
+Stage for1246[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1247:-1.0
+Stage for1247[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1248:-1.0
+Stage for1248[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1249:-1.0
+Stage for1249[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1250:-1.0
+Stage for1250[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1251:-1.0
+Stage for1251[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1252:-1.0
+Stage for1252[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1253:-1.0
+Stage for1253[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1254:-1.0
+Stage for1254[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1255:-1.0
+Stage for1255[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1256:-1.0
+Stage for1256[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1257:-1.0
+Stage for1257[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1258:-1.0
+Stage for1258[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1259:-1.0
+Stage for1259[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1260:-1.0
+Stage for1260[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1261:-1.0
+Stage for1261[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1262:-1.0
+Stage for1262[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1263:-1.0
+Stage for1263[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1264:-1.0
+Stage for1264[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1265:-1.0
+Stage for1265[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1266:-1.0
+Stage for1266[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1267:-1.0
+Stage for1267[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1268:-1.0
+Stage for1268[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1269:-1.0
+Stage for1269[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1270:-1.0
+Stage for1270[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1271:-1.0
+Stage for1271[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1272:-1.0
+Stage for1272[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1273:-1.0
+Stage for1273[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1274:-1.0
+Stage for1274[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1275:-1.0
+Stage for1275[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1276:-1.0
+Stage for1276[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1277:-1.0
+Stage for1277[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1278:-1.0
+Stage for1278[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1279:-1.0
+Stage for1279[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1280:-1.0
+Stage for1280[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1281:-1.0
+Stage for1281[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1282:-1.0
+Stage for1282[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1283:-1.0
+Stage for1283[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1284:-1.0
+Stage for1284[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1285:-1.0
+Stage for1285[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1286:-1.0
+Stage for1286[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1287:-1.0
+Stage for1287[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1288:-1.0
+Stage for1288[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1289:-1.0
+Stage for1289[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1290:1.3855292934787937
+Stage for1290[1.0383623468729852, 0.9337822671156004, 1.01, 0.9808286951144094]
+Entropy for Stage1291:1.2732095986642213
+Stage for1291[2.103448275862069, 7.2, 5.352941176470588, 2.7058823529411766]
+Entropy for Stage1292:-1.0
+Stage for1292[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1293:-1.0
+Stage for1293[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1294:-1.0
+Stage for1294[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1295:-1.0
+Stage for1295[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1296:-1.0
+Stage for1296[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1297:-1.0
+Stage for1297[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1298:-1.0
+Stage for1298[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1299:-1.0
+Stage for1299[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1300:-1.0
+Stage for1300[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1301:-1.0
+Stage for1301[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1302:-1.0
+Stage for1302[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1303:-1.0
+Stage for1303[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1304:-1.0
+Stage for1304[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1305:-1.0
+Stage for1305[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1306:-1.0
+Stage for1306[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1307:-1.0
+Stage for1307[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1308:-1.0
+Stage for1308[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1309:-1.0
+Stage for1309[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1310:-1.0
+Stage for1310[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1311:-1.0
+Stage for1311[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1312:-1.0
+Stage for1312[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1313:-1.0
+Stage for1313[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1314:-1.0
+Stage for1314[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1315:-1.0
+Stage for1315[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1316:-1.0
+Stage for1316[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1317:-1.0
+Stage for1317[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1318:-1.0
+Stage for1318[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1319:-1.0
+Stage for1319[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1320:-1.0
+Stage for1320[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1321:-1.0
+Stage for1321[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1322:-1.0
+Stage for1322[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1323:-1.0
+Stage for1323[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1324:-1.0
+Stage for1324[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1325:-1.0
+Stage for1325[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1326:-1.0
+Stage for1326[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1327:-1.0
+Stage for1327[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1328:-1.0
+Stage for1328[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1329:-1.0
+Stage for1329[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1330:-1.0
+Stage for1330[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1331:-1.0
+Stage for1331[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1332:-1.0
+Stage for1332[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1333:-1.0
+Stage for1333[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1334:-1.0
+Stage for1334[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1335:-1.0
+Stage for1335[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1336:-1.0
+Stage for1336[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1337:-1.0
+Stage for1337[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1338:-1.0
+Stage for1338[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1339:1.3841503097549628
+Stage for1339[1.0090264345583495, 0.8515712682379349, 0.8884848484848484, 0.8824984539270253]
+Entropy for Stage1340:1.33946406282943
+Stage for1340[11.0, 10.0, 19.666666666666668, 10.0]
+Entropy for Stage1341:-1.0
+Stage for1341[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1342:-1.0
+Stage for1342[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1343:-1.0
+Stage for1343[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1344:-1.0
+Stage for1344[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1345:-1.0
+Stage for1345[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1346:-1.0
+Stage for1346[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1347:-1.0
+Stage for1347[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1348:-1.0
+Stage for1348[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1349:-1.0
+Stage for1349[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1350:-1.0
+Stage for1350[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1351:-1.0
+Stage for1351[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1352:-1.0
+Stage for1352[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1353:-1.0
+Stage for1353[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1354:-1.0
+Stage for1354[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1355:-1.0
+Stage for1355[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1356:-1.0
+Stage for1356[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1357:-1.0
+Stage for1357[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1358:-1.0
+Stage for1358[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1359:-1.0
+Stage for1359[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1360:-1.0
+Stage for1360[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1361:-1.0
+Stage for1361[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1362:-1.0
+Stage for1362[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1363:-1.0
+Stage for1363[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1364:-1.0
+Stage for1364[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1365:-1.0
+Stage for1365[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1366:-1.0
+Stage for1366[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1367:-1.0
+Stage for1367[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1368:-1.0
+Stage for1368[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1369:-1.0
+Stage for1369[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1370:-1.0
+Stage for1370[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1371:-1.0
+Stage for1371[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1372:-1.0
+Stage for1372[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1373:-1.0
+Stage for1373[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1374:-1.0
+Stage for1374[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1375:-1.0
+Stage for1375[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1376:-1.0
+Stage for1376[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1377:-1.0
+Stage for1377[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1378:-1.0
+Stage for1378[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1379:-1.0
+Stage for1379[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1380:-1.0
+Stage for1380[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1381:-1.0
+Stage for1381[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1382:-1.0
+Stage for1382[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1383:-1.0
+Stage for1383[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1384:-1.0
+Stage for1384[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1385:-1.0
+Stage for1385[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1386:-1.0
+Stage for1386[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1387:-1.0
+Stage for1387[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1388:-1.0
+Stage for1388[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1389:-1.0
+Stage for1389[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1390:-1.0
+Stage for1390[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1391:1.385452470291582
+Stage for1391[0.9848484848484849, 0.8835578002244668, 0.9224242424242424, 0.9025974025974026]
+Entropy for Stage1392:0.0
+Stage for1392[0.0, 0.0, 0.0, 20.5]
+Entropy for Stage1393:-1.0
+Stage for1393[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1394:-1.0
+Stage for1394[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1395:-1.0
+Stage for1395[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1396:-1.0
+Stage for1396[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1397:-1.0
+Stage for1397[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1398:-1.0
+Stage for1398[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1399:-1.0
+Stage for1399[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1400:-1.0
+Stage for1400[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1401:-1.0
+Stage for1401[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1402:-1.0
+Stage for1402[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1403:-1.0
+Stage for1403[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1404:-1.0
+Stage for1404[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1405:-1.0
+Stage for1405[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1406:-1.0
+Stage for1406[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1407:-1.0
+Stage for1407[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1408:-1.0
+Stage for1408[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1409:-1.0
+Stage for1409[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1410:-1.0
+Stage for1410[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1411:-1.0
+Stage for1411[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1412:-1.0
+Stage for1412[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1413:-1.0
+Stage for1413[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1414:-1.0
+Stage for1414[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1415:-1.0
+Stage for1415[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1416:-1.0
+Stage for1416[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1417:-1.0
+Stage for1417[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1418:-1.0
+Stage for1418[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1419:-1.0
+Stage for1419[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1420:-1.0
+Stage for1420[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1421:-1.0
+Stage for1421[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1422:-1.0
+Stage for1422[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1423:-1.0
+Stage for1423[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1424:-1.0
+Stage for1424[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1425:-1.0
+Stage for1425[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1426:-1.0
+Stage for1426[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1427:-1.0
+Stage for1427[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1428:-1.0
+Stage for1428[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1429:-1.0
+Stage for1429[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1430:-1.0
+Stage for1430[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1431:-1.0
+Stage for1431[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1432:-1.0
+Stage for1432[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1433:-1.0
+Stage for1433[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1434:-1.0
+Stage for1434[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1435:-1.0
+Stage for1435[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1436:-1.0
+Stage for1436[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1437:-1.0
+Stage for1437[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1438:-1.0
+Stage for1438[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1439:-1.0
+Stage for1439[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1440:-1.0
+Stage for1440[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1441:-1.0
+Stage for1441[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1442:-1.0
+Stage for1442[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1443:-1.0
+Stage for1443[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1444:-1.0
+Stage for1444[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1445:-1.0
+Stage for1445[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1446:1.3820868737107224
+Stage for1446[1.0738233397807866, 0.882435465768799, 0.8736363636363637, 1.031230674087817]
+Entropy for Stage1447:0.6706265865344283
+Stage for1447[106.0, 69.0, 0.0, 0.0]
+Entropy for Stage1448:-1.0
+Stage for1448[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1449:-1.0
+Stage for1449[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1450:-1.0
+Stage for1450[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1451:-1.0
+Stage for1451[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1452:-1.0
+Stage for1452[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1453:-1.0
+Stage for1453[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1454:-1.0
+Stage for1454[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1455:-1.0
+Stage for1455[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1456:-1.0
+Stage for1456[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1457:-1.0
+Stage for1457[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1458:-1.0
+Stage for1458[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1459:-1.0
+Stage for1459[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1460:-1.0
+Stage for1460[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1461:-1.0
+Stage for1461[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1462:-1.0
+Stage for1462[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1463:-1.0
+Stage for1463[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1464:-1.0
+Stage for1464[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1465:-1.0
+Stage for1465[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1466:-1.0
+Stage for1466[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1467:-1.0
+Stage for1467[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1468:-1.0
+Stage for1468[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1469:-1.0
+Stage for1469[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1470:-1.0
+Stage for1470[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1471:-1.0
+Stage for1471[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1472:-1.0
+Stage for1472[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1473:-1.0
+Stage for1473[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1474:-1.0
+Stage for1474[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1475:-1.0
+Stage for1475[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1476:-1.0
+Stage for1476[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1477:-1.0
+Stage for1477[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1478:-1.0
+Stage for1478[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1479:-1.0
+Stage for1479[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1480:-1.0
+Stage for1480[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1481:-1.0
+Stage for1481[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1482:-1.0
+Stage for1482[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1483:-1.0
+Stage for1483[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1484:-1.0
+Stage for1484[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1485:-1.0
+Stage for1485[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1486:-1.0
+Stage for1486[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1487:-1.0
+Stage for1487[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1488:-1.0
+Stage for1488[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1489:-1.0
+Stage for1489[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1490:-1.0
+Stage for1490[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1491:-1.0
+Stage for1491[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1492:-1.0
+Stage for1492[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1493:-1.0
+Stage for1493[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1494:-1.0
+Stage for1494[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1495:-1.0
+Stage for1495[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1496:-1.0
+Stage for1496[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1497:-1.0
+Stage for1497[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1498:-1.0
+Stage for1498[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1499:-1.0
+Stage for1499[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1500:-1.0
+Stage for1500[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1501:-1.0
+Stage for1501[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1502:-1.0
+Stage for1502[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1503:-1.0
+Stage for1503[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1504:1.384445847431039
+Stage for1504[1.0054803352675694, 0.8919753086419753, 0.8566666666666667, 0.8942486085343229]
+Entropy for Stage1505:-1.0
+Stage for1505[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1506:-1.0
+Stage for1506[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1507:-1.0
+Stage for1507[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1508:-1.0
+Stage for1508[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1509:-1.0
+Stage for1509[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1510:-1.0
+Stage for1510[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1511:-1.0
+Stage for1511[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1512:-1.0
+Stage for1512[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1513:-1.0
+Stage for1513[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1514:-1.0
+Stage for1514[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1515:-1.0
+Stage for1515[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1516:-1.0
+Stage for1516[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1517:-1.0
+Stage for1517[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1518:-1.0
+Stage for1518[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1519:-1.0
+Stage for1519[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1520:-1.0
+Stage for1520[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1521:-1.0
+Stage for1521[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1522:-1.0
+Stage for1522[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1523:-1.0
+Stage for1523[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1524:-1.0
+Stage for1524[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1525:-1.0
+Stage for1525[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1526:-1.0
+Stage for1526[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1527:-1.0
+Stage for1527[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1528:-1.0
+Stage for1528[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1529:-1.0
+Stage for1529[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1530:-1.0
+Stage for1530[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1531:-1.0
+Stage for1531[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1532:-1.0
+Stage for1532[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1533:-1.0
+Stage for1533[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1534:-1.0
+Stage for1534[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1535:-1.0
+Stage for1535[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1536:-1.0
+Stage for1536[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1537:-1.0
+Stage for1537[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1538:-1.0
+Stage for1538[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1539:-1.0
+Stage for1539[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1540:-1.0
+Stage for1540[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1541:-1.0
+Stage for1541[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1542:-1.0
+Stage for1542[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1543:-1.0
+Stage for1543[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1544:-1.0
+Stage for1544[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1545:-1.0
+Stage for1545[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1546:-1.0
+Stage for1546[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1547:-1.0
+Stage for1547[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1548:-1.0
+Stage for1548[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1549:-1.0
+Stage for1549[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1550:-1.0
+Stage for1550[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1551:-1.0
+Stage for1551[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1552:-1.0
+Stage for1552[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1553:-1.0
+Stage for1553[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1554:-1.0
+Stage for1554[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1555:-1.0
+Stage for1555[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1556:-1.0
+Stage for1556[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1557:-1.0
+Stage for1557[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1558:-1.0
+Stage for1558[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1559:-1.0
+Stage for1559[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1560:-1.0
+Stage for1560[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1561:1.3820068493544044
+Stage for1561[0.032400207361327114, 0.026919041985669964, 0.027754732634436986, 0.025330421273050685]
+Entropy for Stage1562:-1.0
+Stage for1562[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1563:-1.0
+Stage for1563[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1564:-1.0
+Stage for1564[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1565:-1.0
+Stage for1565[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1566:-1.0
+Stage for1566[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1567:-1.0
+Stage for1567[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1568:-1.0
+Stage for1568[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1569:-1.0
+Stage for1569[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1570:-1.0
+Stage for1570[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1571:-1.0
+Stage for1571[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1572:-1.0
+Stage for1572[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1573:-1.0
+Stage for1573[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1574:-1.0
+Stage for1574[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1575:-1.0
+Stage for1575[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1576:-1.0
+Stage for1576[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1577:-1.0
+Stage for1577[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1578:-1.0
+Stage for1578[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1579:-1.0
+Stage for1579[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1580:-1.0
+Stage for1580[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1581:-1.0
+Stage for1581[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1582:-1.0
+Stage for1582[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1583:-1.0
+Stage for1583[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1584:-1.0
+Stage for1584[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1585:-1.0
+Stage for1585[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1586:-1.0
+Stage for1586[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1587:-1.0
+Stage for1587[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1588:-1.0
+Stage for1588[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1589:-1.0
+Stage for1589[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1590:-1.0
+Stage for1590[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1591:-1.0
+Stage for1591[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1592:-1.0
+Stage for1592[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1593:-1.0
+Stage for1593[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1594:-1.0
+Stage for1594[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1595:-1.0
+Stage for1595[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1596:-1.0
+Stage for1596[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1597:-1.0
+Stage for1597[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1598:-1.0
+Stage for1598[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1599:-1.0
+Stage for1599[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1600:-1.0
+Stage for1600[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1601:-1.0
+Stage for1601[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1602:-1.0
+Stage for1602[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1603:-1.0
+Stage for1603[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1604:-1.0
+Stage for1604[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1605:-1.0
+Stage for1605[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1606:-1.0
+Stage for1606[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1607:-1.0
+Stage for1607[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1608:-1.0
+Stage for1608[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1609:-1.0
+Stage for1609[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1610:-1.0
+Stage for1610[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1611:-1.0
+Stage for1611[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1612:-1.0
+Stage for1612[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1613:-1.0
+Stage for1613[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1614:-1.0
+Stage for1614[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1615:-1.0
+Stage for1615[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1616:-1.0
+Stage for1616[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1617:-1.0
+Stage for1617[0.0, 0.0, 0.0, 0.0]
+Entropy for Stage1618:1.3099965533786246
+Stage for1618[0.5847457627118644, 1.106060606060606, 0.4110429447852761, 0.5190839694656488]
